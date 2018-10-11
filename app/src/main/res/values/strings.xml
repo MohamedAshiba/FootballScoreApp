@@ -1,0 +1,19 @@
+<resources>
+    <!-- name of all attribute in app -->
+    <string name="app_name">Football Scores</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="name_goals">Goals</string>
+    <string name="name_fouls">Fouls</string>
+    <string name="name_yellow_cards">Yellow Cards</string>
+    <string name="name_red_cards">Red Cards</string>
+
+    <!-- name of action button in app -->
+    <string name="button_goals">+ Goal</string>
+    <string name="button_foul">+ Foul</string>
+    <string name="button_yellow_card">+ Yellow Card</string>
+    <string name="button_red_card">+ Red Card</string>
+
+    <!--name of button Reset-->
+    <string name="button_reset">Reset</string>
+</resources>
